@@ -1,0 +1,6 @@
+{
+  "name": "My Transformation Journey",
+  "description": "A highly polished, gamified health, workout, and habit tracker with a custom bilingual (Tamil & English) Gemini AI coach to analyze metrics, calculate nutrition balance, and provide personalized wellness guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
